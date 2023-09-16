@@ -12,7 +12,7 @@ namespace Regex_s
     internal class Program
     {
         // Creating the expression 
-        static string expression = "[A-Za-z][A-Za-z][0-9][0-9][A-Za-z][A-Za-z]";
+        static string expression = "[A-Za-z][A-Za-z][0-9][0-9][A-Za-z][A-Za-z][A-Za-z]";
 
         static void checker()
         {
